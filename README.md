@@ -1,6 +1,7 @@
 # BMI-knowledge-vault
 
 ## TEST
-- [ ] kv (sub of sub of main): from Obsidian Linux
-- [ ] kv (sub of sub of main): from Github web on Linux
-- [ ] After repo name change from Obsidian linux
+- [x] kv (sub of sub of main): from Obsidian Linux
+- [x] kv (sub of sub of main): from Github web on Linux
+- [x] After repo name change from Obsidian linux
+- [ ] After repo name change from github web
