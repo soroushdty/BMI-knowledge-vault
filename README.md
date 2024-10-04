@@ -6,4 +6,4 @@
 - [x] After repo name change from Obsidian linux
 - [x] After repo name change from github web
 - [x] obsidian mobile
-- [ ] desktop app
+- [x] desktop app
