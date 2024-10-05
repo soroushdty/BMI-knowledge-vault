@@ -1,3 +1,3 @@
 # BMI-knowledge-vault
 
-- [ ] from obsidian linux
+- [x] from obsidian linux
